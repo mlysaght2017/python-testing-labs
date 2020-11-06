@@ -1,6 +1,3 @@
-class Calculator:
-    """ A simple calculator App"""
-
     def add(x, y):
         """Add Function"""
         return x + y
