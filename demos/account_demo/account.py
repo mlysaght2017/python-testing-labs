@@ -10,3 +10,4 @@ class Account(object):
     def get_current_balance(self, id_num):
         response = requests.get("https://some-account-uri"+id_num)
         return {'status': response.status_code, 'data':response.text}
+        
