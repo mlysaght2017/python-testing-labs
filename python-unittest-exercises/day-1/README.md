@@ -1,5 +1,5 @@
 # python-unittest-exercise
-Simple code snippets you can use as exercise activity for python unit testing.
+Simple code snippets you can use as exercise activity for python unit testing (patching and mocking).
 
 Instructions: 
 - Create unit tests for each of the functions in the "toy_gr_functions.py" file
